@@ -1,5 +1,5 @@
 # developer-minsung
-I am a Developer (KOR)
+I am a Developer.
 
 Agile and Scrum
 Python, Django
